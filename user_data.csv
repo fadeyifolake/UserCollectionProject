@@ -1,0 +1,16 @@
+age,gender,total_income,location,marital_status,occupation,education_level,utilities,entertainment,school_fees,shopping,healthcare
+40,female,350000,Osun,married,Accountant,bachelor_degree,25000,12000,50000,30000,10000
+35,male,250000,Oyo,married,Civil Servant,high_school,20000,12000,40000,30000,20000
+50,female,450000,Lagos State,married,Senior Manager,master_degree,40000,20000,45000,50000,20000
+40,male,500000,Lagos State,married,Senior Engineer,master_degree,40000,20000,45000,50000,20000
+47,female,500000,Oyo,married,General Manager,master_degree,40000,20000,45000,50000,20000
+45,male,4500000,Lagos State,single,General Manager,high_school,100000,200000,500000,100000,250000
+56,female,2500000,Lagos State,single,Branch Manager,master_degree,100000,200000,500000,100000,250000
+50,female,3500000,Oyo,married,Branch Manager,master_degree,100000,300000,400000,100000,250000
+55,male,350000,Enugu,married,Banker,master_degree,100000,300000,400000,100000,250000
+55,male,350000,Enugu,married,Banker,master_degree,100000,300000,400000,100000,250000
+25,male,150000,Enugu,single,Graduate Intern,bachelor_degree,10000,30000,40000,10000,2500
+25,male,150000,Enugu,single,Graduate Intern,bachelor_degree,10000,30000,40000,10000,2500
+35,female,350000,Osun,married,Junior staff,bachelor_degree,100000,30000,40000,10000,2500
+40,male,350000,Osun,married,Senior staff,master_degree,100000,30000,40000,10000,2500
+55,male,3500000,Osun,married,Civil Servant,master_degree,100000,300000,40000,100000,250000
